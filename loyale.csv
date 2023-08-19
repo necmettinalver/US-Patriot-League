@@ -1,0 +1,340 @@
+team,opponent,##,Player,GS,MIN,FG,3PT,FT,ORB-DRB,REB,PF,A,TO,BLK,STL,PTS,date,time,site,team_score,opponent_score
+Loyola Maryland,Niagara,45,"45 Therien, Lex",*,35,5-12,0-0,6-7,3-17,20,1,1,7,2,2,16,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Niagara,10,"10 Sims, Koi",*,28,7-11,0-0,1-3,4-3,7,3,0,1,1,0,15,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Niagara,04,"04 Dixon, Taleah",*,28,2-9,1-3,2-4,0-4,4,1,2,2,0,2,7,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Niagara,22,"22 Rozzi, Bri",*,21,2-2,0-0,2-2,0-1,1,4,2,5,0,0,6,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Niagara,13,"13 Tañedo, Caramina",*,27,0-5,0-3,0-0,1-0,1,0,1,2,0,0,0,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Niagara,02,"02 Van-Otoo, Meliah",,20,3-6,0-1,0-2,1-1,2,3,2,5,0,0,6,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Niagara,01,"01 Ratigan, Kelly",,16,0-2,0-2,2-2,0-0,0,1,2,7,0,1,2,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Niagara,11,"11 Glezen, Emma",,15,1-1,0-0,0-0,0-0,0,2,1,1,1,0,2,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Niagara,35,"35 Therien, Ava",,2,0-0,0-0,1-2,0-0,0,1,0,0,0,0,1,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Niagara,12,"12 Garcia, Cristina",,8,0-2,0-1,0-0,0-0,0,1,1,2,0,0,0,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Niagara,TM,TM TEAM,,0,0-0,0-0,0-0,3-5,8,0,0,1,0,0,0,11/07/22,7:00 PM,"Reitz Arena, Baltimore, MD",55,64
+Loyola Maryland,Morgan State,45,"45 Therien, Lex",*,35,10-15,0-0,0-2,1-12,13,2,1,6,0,3,20,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,Morgan State,04,"04 Dixon, Taleah",*,35,4-11,1-5,4-4,0-3,3,2,1,6,0,0,13,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,Morgan State,10,"10 Sims, Koi",*,35,2-6,0-0,1-2,5-10,15,3,3,3,2,1,5,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,Morgan State,02,"02 Van-Otoo, Meliah",*,25,1-4,0-1,1-2,0-2,2,4,4,4,0,1,3,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,Morgan State,22,"22 Rozzi, Bri",*,10,0-2,0-0,0-0,0-2,2,1,0,2,0,0,0,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,Morgan State,01,"01 Ratigan, Kelly",,19,2-5,2-4,0-0,1-0,1,0,1,1,0,0,6,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,Morgan State,13,"13 Tañedo, Caramina",,23,1-3,1-3,0-0,0-2,2,1,0,2,0,0,3,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,Morgan State,12,"12 Garcia, Cristina",,9,0-2,0-2,0-0,0-1,1,1,0,2,0,0,0,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,Morgan State,11,"11 Glezen, Emma",,7,0-0,0-0,0-0,0-0,0,2,0,1,0,0,0,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,Morgan State,35,"35 Therien, Ava",,2,0-1,0-0,0-0,0-0,0,0,1,0,0,0,0,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,Morgan State,TM,TM TEAM,,0,0-0,0-0,0-0,2-5,7,0,0,0,0,0,0,11/10/22,5:30 PM,"Baltimore, Md. (Hill Field House)",50,59
+Loyola Maryland,UMBC,45,"45 Therien, Lex",*,38,7-14,0-0,3-5,2-9,11,3,1,3,0,2,17,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,UMBC,04,"04 Dixon, Taleah",*,30,4-10,1-3,2-2,3-7,10,2,2,3,0,1,11,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,UMBC,22,"22 Rozzi, Bri",*,38,3-7,1-3,3-4,0-4,4,1,3,3,0,0,10,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,UMBC,10,"10 Sims, Koi",*,14,3-5,0-0,0-0,3-1,4,3,1,3,1,1,6,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,UMBC,02,"02 Van-Otoo, Meliah",*,16,0-3,0-1,0-0,0-1,1,1,1,0,0,1,0,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,UMBC,23,"23 Espinal, Marta",,12,3-3,1-1,0-0,0-0,0,3,1,0,1,0,7,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,UMBC,13,"13 Tañedo, Caramina",,28,1-5,0-2,3-5,0-1,1,0,1,3,0,0,5,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,UMBC,01,"01 Ratigan, Kelly",,14,1-4,1-4,0-0,0-2,2,1,0,0,0,1,3,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,UMBC,11,"11 Glezen, Emma",,7,0-0,0-0,2-2,0-0,0,4,0,1,0,0,2,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,UMBC,35,"35 Therien, Ava",,3,0-2,0-0,0-0,1-0,1,0,0,0,0,0,0,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,UMBC,TM,TM TEAM,,0,0-0,0-0,0-0,1-2,3,0,0,0,0,0,0,11/13/22,12:00 PM,"Reitz Arena, Baltimore, MD",61,47
+Loyola Maryland,Monmouth,45,"45 Therien, Lex",*,36,7-14,0-1,5-6,0-9,9,2,0,1,0,3,19,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,Monmouth,04,"04 Dixon, Taleah",*,34,4-13,3-7,3-4,0-1,1,3,2,5,0,2,14,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,Monmouth,10,"10 Sims, Koi",*,31,5-12,0-0,0-3,6-3,9,0,3,0,0,1,10,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,Monmouth,22,"22 Rozzi, Bri",*,35,1-7,1-4,0-0,1-0,1,3,3,2,0,1,3,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,Monmouth,02,"02 Van-Otoo, Meliah",*,6,0-1,0-0,0-0,0-0,0,0,0,1,0,0,0,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,Monmouth,13,"13 Tañedo, Caramina",,35,3-7,2-4,3-3,3-0,3,1,2,1,0,1,11,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,Monmouth,11,"11 Glezen, Emma",,8,0-0,0-0,2-2,2-0,2,0,1,0,0,1,2,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,Monmouth,12,"12 Garcia, Cristina",,8,1-1,0-0,0-0,1-0,1,2,0,0,0,0,2,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,Monmouth,01,"01 Ratigan, Kelly",,4,0-2,0-2,0-0,0-0,0,0,0,1,0,0,0,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,Monmouth,23,"23 Espinal, Marta",,3,0-0,0-0,0-0,0-1,1,0,0,1,0,0,0,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,Monmouth,TM,TM TEAM,,0,0-0,0-0,0-0,2-3,5,0,0,0,0,0,0,11/16/22,7:00 PM,"Reitz Arena, Baltimore, MD",61,59
+Loyola Maryland,George Mason,04,"04 Dixon, Taleah",*,35,10-17,2-4,6-6,0-1,1,3,0,3,0,4,28,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,George Mason,45,"45 Therien, Lex",*,30,5-13,0-1,3-3,4-4,8,4,1,2,0,1,13,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,George Mason,22,"22 Rozzi, Bri",*,37,3-8,1-3,0-0,1-1,2,1,0,0,0,1,7,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,George Mason,02,"02 Van-Otoo, Meliah",*,12,1-3,0-0,1-2,0-0,0,1,1,1,0,0,3,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,George Mason,10,"10 Sims, Koi",*,24,1-5,0-0,0-0,2-5,7,5,1,3,1,1,2,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,George Mason,12,"12 Garcia, Cristina",,6,0-0,0-0,3-4,0-0,0,3,0,0,0,0,3,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,George Mason,23,"23 Espinal, Marta",,14,1-1,0-0,0-0,1-2,3,2,1,1,0,0,2,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,George Mason,13,"13 Tañedo, Caramina",,26,0-3,0-1,0-0,1-2,3,0,1,0,0,0,0,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,George Mason,11,"11 Glezen, Emma",,11,0-0,0-0,0-0,0-1,1,4,0,3,0,0,0,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,George Mason,01,"01 Ratigan, Kelly",,5,0-1,0-1,0-0,0-0,0,0,0,0,0,0,0,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,George Mason,TM,TM TEAM,,0,0-0,0-0,0-0,2-0,2,0,0,1,0,0,0,11/19/22,3:00 PM,"EagleBank Arena, Fairfax, VA",58,66
+Loyola Maryland,Bryant,45,"45 Therien, Lex",*,22,5-11,0-1,6-8,4-6,10,4,0,2,0,1,16,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Bryant,04,"04 Dixon, Taleah",*,34,4-14,2-6,4-6,0-0,0,1,1,1,0,2,14,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Bryant,22,"22 Rozzi, Bri",*,31,4-11,2-7,4-4,0-0,0,2,5,0,0,1,14,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Bryant,13,"13 Tañedo, Caramina",*,35,4-5,4-5,0-0,1-1,2,1,2,3,0,3,12,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Bryant,10,"10 Sims, Koi",*,33,2-9,0-0,1-2,3-9,12,1,2,2,0,3,5,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Bryant,01,"01 Ratigan, Kelly",,7,1-1,1-1,0-0,0-0,0,0,0,1,0,0,3,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Bryant,11,"11 Glezen, Emma",,14,1-1,0-0,0-0,1-2,3,2,3,0,0,0,2,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Bryant,23,"23 Espinal, Marta",,9,1-1,0-0,0-0,3-0,3,3,2,1,0,0,2,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Bryant,12,"12 Garcia, Cristina",,14,0-2,0-0,1-5,0-1,1,0,0,0,0,0,1,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Bryant,02,"02 Van-Otoo, Meliah",,1,0-0,0-0,0-0,0-0,0,0,0,1,0,0,0,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Bryant,TM,TM TEAM,,0,0-0,0-0,0-0,2-0,2,0,0,0,0,0,0,11/21/22,6:00 PM,"Chace Athletic Center, Smithfield, RI",69,64
+Loyola Maryland,Delaware St.,04,"04 Dixon, Taleah",*,32,10-15,5-7,1-1,0-0,0,0,2,3,0,2,26,11/26/22,2:00 PM,"Reitz Arena, Baltimore, MD",60,51
+Loyola Maryland,Delaware St.,22,"22 Rozzi, Bri",*,24,2-4,1-1,2-2,0-2,2,4,0,1,0,1,7,11/26/22,2:00 PM,"Reitz Arena, Baltimore, MD",60,51
+Loyola Maryland,Delaware St.,45,"45 Therien, Lex",*,21,3-10,0-0,0-0,2-2,4,5,0,5,0,1,6,11/26/22,2:00 PM,"Reitz Arena, Baltimore, MD",60,51
+Loyola Maryland,Delaware St.,10,"10 Sims, Koi",*,30,2-6,0-0,0-0,4-6,10,1,3,3,0,2,4,11/26/22,2:00 PM,"Reitz Arena, Baltimore, MD",60,51
+Loyola Maryland,Delaware St.,13,"13 Tañedo, Caramina",*,19,0-3,0-2,0-0,0-2,2,0,0,1,0,0,0,11/26/22,2:00 PM,"Reitz Arena, Baltimore, MD",60,51
+Loyola Maryland,Delaware St.,02,"02 Van-Otoo, Meliah",,19,3-5,0-1,1-2,0-2,2,2,3,2,1,4,7,11/26/22,2:00 PM,"Reitz Arena, Baltimore, MD",60,51
+Loyola Maryland,Delaware St.,12,"12 Garcia, Cristina",,28,1-3,0-1,2-2,2-2,4,3,3,2,0,0,4,11/26/22,2:00 PM,"Reitz Arena, Baltimore, MD",60,51
+Loyola Maryland,Delaware St.,11,"11 Glezen, Emma",,15,2-2,0-0,0-0,1-0,1,5,0,1,0,0,4,11/26/22,2:00 PM,"Reitz Arena, Baltimore, MD",60,51
+Loyola Maryland,Delaware St.,23,"23 Espinal, Marta",,12,1-1,0-0,0-0,0-0,0,2,0,3,1,0,2,11/26/22,2:00 PM,"Reitz Arena, Baltimore, MD",60,51
+Loyola Maryland,Delaware St.,TM,TM TEAM,,0,0-0,0-0,0-0,0-2,2,0,0,0,0,0,0,11/26/22,2:00 PM,"Reitz Arena, Baltimore, MD",60,51
+Loyola Maryland,Toledo,45,"45 Therien, Lex",*,30,6-14,0-1,0-1,3-7,10,4,1,4,0,1,12,11/30/22,11:30 AM,"Reitz Arena, Baltimore, MD",40,62
+Loyola Maryland,Toledo,22,"22 Rozzi, Bri",*,31,2-8,1-4,3-4,0-3,3,3,2,2,0,0,8,11/30/22,11:30 AM,"Reitz Arena, Baltimore, MD",40,62
+Loyola Maryland,Toledo,10,"10 Sims, Koi",*,29,3-5,0-0,0-0,2-7,9,3,1,6,1,0,6,11/30/22,11:30 AM,"Reitz Arena, Baltimore, MD",40,62
+Loyola Maryland,Toledo,13,"13 Tañedo, Caramina",*,30,1-5,1-3,0-0,0-2,2,1,0,2,0,0,3,11/30/22,11:30 AM,"Reitz Arena, Baltimore, MD",40,62
+Loyola Maryland,Toledo,12,"12 Garcia, Cristina",*,22,1-6,0-1,1-2,3-1,4,2,2,1,0,2,3,11/30/22,11:30 AM,"Reitz Arena, Baltimore, MD",40,62
+Loyola Maryland,Toledo,02,"02 Van-Otoo, Meliah",,22,1-3,0-1,3-4,0-0,0,2,0,2,0,0,5,11/30/22,11:30 AM,"Reitz Arena, Baltimore, MD",40,62
+Loyola Maryland,Toledo,01,"01 Ratigan, Kelly",,17,1-5,1-3,0-0,0-2,2,1,1,2,0,0,3,11/30/22,11:30 AM,"Reitz Arena, Baltimore, MD",40,62
+Loyola Maryland,Toledo,23,"23 Espinal, Marta",,10,0-0,0-0,0-0,0-1,1,0,0,0,0,0,0,11/30/22,11:30 AM,"Reitz Arena, Baltimore, MD",40,62
+Loyola Maryland,Toledo,11,"11 Glezen, Emma",,9,0-0,0-0,0-0,0-0,0,3,0,1,0,0,0,11/30/22,11:30 AM,"Reitz Arena, Baltimore, MD",40,62
+Loyola Maryland,Toledo,TM,TM TEAM,,0,0-0,0-0,0-0,1-1,2,0,0,2,0,0,0,11/30/22,11:30 AM,"Reitz Arena, Baltimore, MD",40,62
+Loyola Maryland,Mount St. Mary's,04,"04 Dixon, Taleah",*,34,7-12,3-4,1-2,0-0,0,3,4,3,0,1,18,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Mount St. Mary's,45,"45 Therien, Lex",*,35,8-14,0-0,0-0,3-7,10,0,3,4,1,1,16,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Mount St. Mary's,22,"22 Rozzi, Bri",*,32,5-10,2-6,0-0,0-3,3,4,4,6,0,0,12,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Mount St. Mary's,10,"10 Sims, Koi",*,29,4-7,0-0,3-5,4-3,7,0,3,3,0,0,11,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Mount St. Mary's,13,"13 Tañedo, Caramina",*,32,2-3,2-3,0-0,0-2,2,2,1,1,0,1,6,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Mount St. Mary's,02,"02 Van-Otoo, Meliah",,20,1-1,0-0,1-2,0-1,1,3,2,3,0,1,3,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Mount St. Mary's,01,"01 Ratigan, Kelly",,5,0-1,0-0,0-0,0-0,0,0,0,1,0,0,0,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Mount St. Mary's,11,"11 Glezen, Emma",,5,0-2,0-0,0-0,0-0,0,0,0,1,0,0,0,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Mount St. Mary's,23,"23 Espinal, Marta",,5,0-0,0-0,0-0,0-1,1,2,0,0,0,0,0,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Mount St. Mary's,12,"12 Garcia, Cristina",,3,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Mount St. Mary's,TM,TM TEAM,,0,0-0,0-0,0-0,2-4,6,0,0,1,0,0,0,12/03/22,1:00 PM,"Knott Arena, Emmitsburg, MD",66,73
+Loyola Maryland,Pittsburgh,04,"04 Dixon, Taleah",*,25,3-17,3-10,7-8,1-1,2,2,1,4,0,3,16,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,01,"01 Ratigan, Kelly",*,30,2-13,2-9,2-2,0-1,1,1,0,3,0,1,8,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,45,"45 Therien, Lex",*,25,2-9,0-0,3-4,4-4,8,4,0,3,0,1,7,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,10,"10 Sims, Koi",*,26,2-6,0-0,1-2,5-5,10,0,1,2,1,2,5,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,22,"22 Rozzi, Bri",*,17,0-3,0-1,0-0,0-1,1,1,1,1,0,0,0,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,02,"02 Van-Otoo, Meliah",,15,1-2,1-1,1-2,3-1,4,1,1,4,0,1,4,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,12,"12 Garcia, Cristina",,18,0-3,0-0,1-2,3-0,3,3,0,1,0,1,1,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,35,"35 Therien, Ava",,5,0-0,0-0,1-2,1-0,1,0,0,1,0,0,1,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,23,"23 Espinal, Marta",,21,0-1,0-0,0-0,0-3,3,1,3,2,0,1,0,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,13,"13 Tañedo, Caramina",,16,0-2,0-2,0-0,2-1,3,2,1,0,0,1,0,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,21,"21 Orza, Caroline",,2,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Pittsburgh,TM,TM TEAM,,0,0-0,0-0,0-0,2-1,3,0,0,2,0,0,0,12/07/22,6:00 PM,"Petersen Events Center, Pittsburgh, PA",42,78
+Loyola Maryland,Hofstra,04,"04 Dixon, Taleah",*,41,5-18,3-6,8-8,0-3,3,4,2,1,0,1,21,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,22,"22 Rozzi, Bri",*,40,3-9,1-4,4-5,0-3,3,2,4,3,0,3,11,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,45,"45 Therien, Lex",*,32,4-12,0-1,1-5,5-3,8,4,2,2,0,4,9,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,01,"01 Ratigan, Kelly",*,26,3-7,1-4,0-0,0-2,2,2,0,0,0,0,7,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,10,"10 Sims, Koi",*,29,2-8,0-1,0-0,2-3,5,3,1,1,1,2,4,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,13,"13 Tañedo, Caramina",,26,2-3,0-1,0-2,3-2,5,0,0,1,0,3,4,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,02,"02 Van-Otoo, Meliah",,6,0-0,0-0,3-3,0-1,1,1,1,0,0,0,3,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,15,"15 Salmerón, Laura",,13,0-3,0-3,2-2,0-3,3,1,0,2,0,1,2,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,23,"23 Espinal, Marta",,11,0-1,0-1,1-2,1-0,1,2,1,2,0,0,1,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,12,"12 Garcia, Cristina",,1,0-0,0-0,0-0,0-0,0,1,0,1,0,0,0,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,35,"35 Therien, Ava",,0+,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Hofstra,TM,TM TEAM,,0,0-0,0-0,0-0,1-3,4,0,0,3,0,0,0,12/10/22,2:00 PM,"Reitz Arena, Baltimore, MD",62,61
+Loyola Maryland,Colgate,45,"45 Therien, Lex",*,35,7-10,1-1,3-5,2-8,10,2,1,2,0,1,18,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,Colgate,04,"04 Dixon, Taleah",*,39,4-12,0-3,4-4,0-0,0,1,4,3,0,4,12,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,Colgate,10,"10 Sims, Koi",*,31,5-7,0-0,1-1,4-6,10,1,0,1,1,1,11,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,Colgate,01,"01 Ratigan, Kelly",*,35,1-5,1-4,0-0,0-0,0,3,3,0,0,1,3,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,Colgate,15,"15 Salmerón, Laura",*,29,0-3,0-3,0-0,0-2,2,1,4,4,0,0,0,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,Colgate,05,"05 Newman, Devyne",,27,7-11,0-1,0-0,2-2,4,0,3,1,0,0,14,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,Colgate,12,"12 Garcia, Cristina",,8,1-2,0-0,0-0,0-1,1,0,0,1,0,0,2,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,Colgate,02,"02 Van-Otoo, Meliah",,11,0-1,0-1,1-2,0-0,0,2,0,2,0,0,1,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,Colgate,11,"11 Glezen, Emma",,7,0-1,0-1,0-0,0-2,2,1,0,0,0,0,0,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,Colgate,23,"23 Espinal, Marta",,3,0-0,0-0,0-0,0-1,1,0,0,0,0,0,0,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,Colgate,TM,TM TEAM,,0,0-0,0-0,0-0,1-1,2,0,0,0,0,0,0,12/30/22,4:00 PM,"Cotterell Court, Hamilton, NY",61,56
+Loyola Maryland,American,10,"10 Sims, Koi",*,28,4-8,0-0,0-0,6-5,11,0,1,4,2,0,8,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,01,"01 Ratigan, Kelly",*,32,2-6,2-6,0-0,1-2,3,3,0,3,1,1,6,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,04,"04 Dixon, Taleah",*,28,2-11,1-5,1-2,0-3,3,4,1,3,1,2,6,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,45,"45 Therien, Lex",*,20,2-7,0-0,0-0,3-3,6,4,0,3,0,2,4,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,15,"15 Salmerón, Laura",*,20,1-4,1-2,0-0,0-0,0,0,3,3,0,0,3,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,05,"05 Newman, Devyne",,25,4-11,0-1,0-0,0-5,5,0,1,2,0,2,8,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,23,"23 Espinal, Marta",,12,1-2,0-1,0-2,0-0,0,2,1,0,0,1,2,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,13,"13 Tañedo, Caramina",,16,0-2,0-2,0-0,0-1,1,0,0,1,0,1,0,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,02,"02 Van-Otoo, Meliah",,12,0-0,0-0,0-0,1-1,2,2,3,2,0,0,0,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,12,"12 Garcia, Cristina",,4,0-0,0-0,0-0,0-1,1,0,0,2,0,1,0,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,11,"11 Glezen, Emma",,3,0-1,0-0,0-0,1-0,1,0,0,0,0,0,0,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,American,TM,TM TEAM,,0,0-0,0-0,0-0,2-0,2,0,0,1,0,0,0,01/02/23,7:00 PM,"Reitz Arena, Baltimore, MD",37,52
+Loyola Maryland,Army West Point,04,"04 Dixon, Taleah",*,33,8-12,2-3,2-2,0-3,3,1,4,3,0,0,20,01/05/23,6:00 PM,"Christl Arena, West Point, NY",67,48
+Loyola Maryland,Army West Point,45,"45 Therien, Lex",*,36,7-13,0-0,1-4,2-5,7,1,2,7,0,0,15,01/05/23,6:00 PM,"Christl Arena, West Point, NY",67,48
+Loyola Maryland,Army West Point,10,"10 Sims, Koi",*,28,6-8,0-0,2-3,2-3,5,1,3,1,1,0,14,01/05/23,6:00 PM,"Christl Arena, West Point, NY",67,48
+Loyola Maryland,Army West Point,15,"15 Salmerón, Laura",*,26,2-6,1-2,0-0,0-3,3,2,0,2,0,2,5,01/05/23,6:00 PM,"Christl Arena, West Point, NY",67,48
+Loyola Maryland,Army West Point,01,"01 Ratigan, Kelly",*,28,1-1,0-0,0-0,1-1,2,2,1,1,0,0,2,01/05/23,6:00 PM,"Christl Arena, West Point, NY",67,48
+Loyola Maryland,Army West Point,13,"13 Tañedo, Caramina",,23,1-2,1-2,2-2,0-1,1,1,2,1,0,1,5,01/05/23,6:00 PM,"Christl Arena, West Point, NY",67,48
+Loyola Maryland,Army West Point,05,"05 Newman, Devyne",,17,2-3,0-0,0-0,1-1,2,2,2,1,0,0,4,01/05/23,6:00 PM,"Christl Arena, West Point, NY",67,48
+Loyola Maryland,Army West Point,02,"02 Van-Otoo, Meliah",,7,1-1,0-0,0-0,0-0,0,2,1,0,0,0,2,01/05/23,6:00 PM,"Christl Arena, West Point, NY",67,48
+Loyola Maryland,Army West Point,12,"12 Garcia, Cristina",,2,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,01/05/23,6:00 PM,"Christl Arena, West Point, NY",67,48
+Loyola Maryland,Army West Point,TM,TM TEAM,,0,0-0,0-0,0-0,1-9,10,0,0,1,0,0,0,01/05/23,6:00 PM,"Christl Arena, West Point, NY",67,48
+Loyola Maryland,Holy Cross,45,"45 Therien, Lex",*,28,8-13,0-2,1-3,1-9,10,4,0,1,0,1,17,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Holy Cross,04,"04 Dixon, Taleah",*,34,5-15,2-6,0-0,1-1,2,4,5,2,0,1,12,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Holy Cross,01,"01 Ratigan, Kelly",*,32,2-5,2-4,0-0,0-0,0,3,0,1,0,0,6,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Holy Cross,10,"10 Sims, Koi",*,29,3-9,0-0,0-0,7-5,12,3,2,3,0,0,6,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Holy Cross,15,"15 Salmerón, Laura",*,25,0-3,0-1,0-0,0-2,2,1,1,2,0,1,0,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Holy Cross,13,"13 Tañedo, Caramina",,19,1-2,1-1,0-0,0-1,1,0,1,0,0,1,3,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Holy Cross,05,"05 Newman, Devyne",,15,1-4,0-0,0-0,1-0,1,0,0,1,0,0,2,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Holy Cross,02,"02 Van-Otoo, Meliah",,6,0-1,0-1,0-0,0-0,0,0,0,0,0,1,0,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Holy Cross,12,"12 Garcia, Cristina",,6,0-0,0-0,0-0,0-0,0,0,0,1,0,1,0,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Holy Cross,23,"23 Espinal, Marta",,6,0-1,0-1,0-0,0-0,0,0,0,1,0,0,0,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Holy Cross,TM,TM TEAM,,0,0-0,0-0,0-0,2-1,3,0,0,3,0,0,0,01/08/23,2:00 PM,"Reitz Arena, Baltimore, MD",46,53
+Loyola Maryland,Bucknell,01,"01 Ratigan, Kelly",*,36,6-10,3-5,0-0,1-2,3,3,0,1,0,0,15,01/11/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,56
+Loyola Maryland,Bucknell,45,"45 Therien, Lex",*,23,5-12,0-0,3-4,0-7,7,5,1,1,0,0,13,01/11/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,56
+Loyola Maryland,Bucknell,05,"05 Newman, Devyne",*,28,6-13,0-2,0-0,2-2,4,2,1,0,0,0,12,01/11/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,56
+Loyola Maryland,Bucknell,04,"04 Dixon, Taleah",*,34,2-11,0-2,0-0,0-0,0,0,5,0,0,0,4,01/11/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,56
+Loyola Maryland,Bucknell,10,"10 Sims, Koi",*,32,1-4,0-0,0-0,5-3,8,1,4,1,1,0,2,01/11/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,56
+Loyola Maryland,Bucknell,12,"12 Garcia, Cristina",,17,1-2,0-0,0-0,0-2,2,2,1,2,0,0,2,01/11/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,56
+Loyola Maryland,Bucknell,22,"22 Rozzi, Bri",,1,1-1,0-0,0-0,0-0,0,0,0,0,0,0,2,01/11/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,56
+Loyola Maryland,Bucknell,13,"13 Tañedo, Caramina",,20,0-4,0-1,0-0,1-1,2,2,0,1,0,2,0,01/11/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,56
+Loyola Maryland,Bucknell,15,"15 Salmerón, Laura",,9,0-2,0-0,0-0,0-0,0,0,0,0,0,0,0,01/11/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,56
+Loyola Maryland,Bucknell,TM,TM TEAM,,0,0-0,0-0,0-0,2-1,3,0,0,1,0,0,0,01/11/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,56
+Loyola Maryland,Navy,45,"45 Therien, Lex",*,32,4-10,0-0,2-3,0-7,7,3,1,2,0,3,10,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,04,"04 Dixon, Taleah",*,25,3-13,0-2,3-3,0-1,1,3,1,2,0,0,9,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,05,"05 Newman, Devyne",*,25,2-8,2-4,2-2,0-3,3,2,0,2,0,0,8,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,12,"12 Garcia, Cristina",*,25,2-3,0-0,1-2,0-0,0,2,3,5,0,2,5,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,01,"01 Ratigan, Kelly",*,23,1-3,0-0,0-0,0-2,2,2,0,1,0,0,2,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,10,"10 Sims, Koi",,18,1-5,0-0,2-2,2-3,5,1,0,1,0,1,4,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,15,"15 Salmerón, Laura",,11,0-2,0-1,3-4,0-2,2,1,0,0,0,0,3,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,22,"22 Rozzi, Bri",,10,0-2,0-1,2-2,1-0,1,3,0,0,0,0,2,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,13,"13 Tañedo, Caramina",,22,0-2,0-1,0-2,0-2,2,1,0,1,0,0,0,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,23,"23 Espinal, Marta",,5,0-0,0-0,0-0,1-0,1,1,0,1,0,0,0,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,02,"02 Van-Otoo, Meliah",,4,0-0,0-0,0-0,0-0,0,2,0,0,0,0,0,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Navy,TM,TM TEAM,,0,0-0,0-0,0-0,1-0,1,0,0,1,0,0,0,01/14/23,2:00 PM,"Alumni Hall, Annapolis, MD",43,63
+Loyola Maryland,Lehigh,45,"45 Therien, Lex",*,39,12-20,0-0,4-6,6-9,15,4,1,6,0,0,28,01/18/23,6:00 PM,"Stabler Arena, Bethlehem, PA",65,72
+Loyola Maryland,Lehigh,04,"04 Dixon, Taleah",*,31,5-21,2-7,2-2,0-1,1,2,4,2,0,2,14,01/18/23,6:00 PM,"Stabler Arena, Bethlehem, PA",65,72
+Loyola Maryland,Lehigh,01,"01 Ratigan, Kelly",*,37,1-6,1-4,0-0,3-4,7,2,1,2,0,0,3,01/18/23,6:00 PM,"Stabler Arena, Bethlehem, PA",65,72
+Loyola Maryland,Lehigh,10,"10 Sims, Koi",*,27,1-4,0-0,1-2,3-9,12,4,4,2,1,0,3,01/18/23,6:00 PM,"Stabler Arena, Bethlehem, PA",65,72
+Loyola Maryland,Lehigh,12,"12 Garcia, Cristina",*,19,0-5,0-0,1-2,3-3,6,2,1,4,0,0,1,01/18/23,6:00 PM,"Stabler Arena, Bethlehem, PA",65,72
+Loyola Maryland,Lehigh,22,"22 Rozzi, Bri",,31,4-8,2-6,0-0,0-1,1,4,0,3,0,0,10,01/18/23,6:00 PM,"Stabler Arena, Bethlehem, PA",65,72
+Loyola Maryland,Lehigh,05,"05 Newman, Devyne",,25,2-5,0-1,2-2,0-1,1,2,4,1,0,0,6,01/18/23,6:00 PM,"Stabler Arena, Bethlehem, PA",65,72
+Loyola Maryland,Lehigh,13,"13 Tañedo, Caramina",,11,0-2,0-1,0-0,2-0,2,1,0,0,0,0,0,01/18/23,6:00 PM,"Stabler Arena, Bethlehem, PA",65,72
+Loyola Maryland,Lehigh,15,"15 Salmerón, Laura",,5,0-0,0-0,0-0,0-1,1,1,0,0,0,0,0,01/18/23,6:00 PM,"Stabler Arena, Bethlehem, PA",65,72
+Loyola Maryland,Lehigh,TM,TM TEAM,,0,0-0,0-0,0-0,6-0,6,0,0,1,0,0,0,01/18/23,6:00 PM,"Stabler Arena, Bethlehem, PA",65,72
+Loyola Maryland,Boston U.,45,"45 Therien, Lex",*,35,8-18,1-1,4-7,7-8,15,4,0,3,1,0,21,01/21/23,2:00 PM,"Reitz Arena, Baltimore, MD",57,65
+Loyola Maryland,Boston U.,04,"04 Dixon, Taleah",*,37,6-16,0-6,0-0,0-0,0,4,3,3,0,1,12,01/21/23,2:00 PM,"Reitz Arena, Baltimore, MD",57,65
+Loyola Maryland,Boston U.,10,"10 Sims, Koi",*,25,2-3,0-0,0-0,2-14,16,1,1,1,2,1,4,01/21/23,2:00 PM,"Reitz Arena, Baltimore, MD",57,65
+Loyola Maryland,Boston U.,12,"12 Garcia, Cristina",*,19,2-2,0-0,0-0,1-0,1,3,1,2,0,0,4,01/21/23,2:00 PM,"Reitz Arena, Baltimore, MD",57,65
+Loyola Maryland,Boston U.,01,"01 Ratigan, Kelly",*,28,0-2,0-2,0-0,0-0,0,2,2,2,0,0,0,01/21/23,2:00 PM,"Reitz Arena, Baltimore, MD",57,65
+Loyola Maryland,Boston U.,22,"22 Rozzi, Bri",,25,3-6,2-3,0-0,0-0,0,1,1,1,0,0,8,01/21/23,2:00 PM,"Reitz Arena, Baltimore, MD",57,65
+Loyola Maryland,Boston U.,13,"13 Tañedo, Caramina",,14,1-4,1-3,2-3,0-0,0,2,1,1,0,0,5,01/21/23,2:00 PM,"Reitz Arena, Baltimore, MD",57,65
+Loyola Maryland,Boston U.,05,"05 Newman, Devyne",,17,1-5,1-2,0-0,0-0,0,0,1,1,0,0,3,01/21/23,2:00 PM,"Reitz Arena, Baltimore, MD",57,65
+Loyola Maryland,Boston U.,TM,TM TEAM,,0,0-0,0-0,0-0,3-1,4,0,0,2,0,0,0,01/21/23,2:00 PM,"Reitz Arena, Baltimore, MD",57,65
+Loyola Maryland,Lafayette,45,"45 Therien, Lex",*,37,2-8,0-1,6-10,5-11,16,4,1,6,0,1,10,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,04,"04 Dixon, Taleah",*,33,4-11,0-2,2-2,0-2,2,1,0,3,0,2,10,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,10,"10 Sims, Koi",*,10,2-4,0-0,0-0,1-1,2,0,0,1,2,1,4,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,01,"01 Ratigan, Kelly",*,25,1-4,1-4,0-0,0-2,2,0,1,2,0,0,3,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,22,"22 Rozzi, Bri",*,33,1-8,0-4,0-0,2-5,7,0,5,2,0,1,2,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,05,"05 Newman, Devyne",,25,2-6,0-1,0-0,0-0,0,2,0,2,0,0,4,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,12,"12 Garcia, Cristina",,16,1-5,0-1,0-0,3-3,6,3,0,0,0,1,2,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,11,"11 Glezen, Emma",,7,0-0,0-0,0-2,0-0,0,4,0,1,0,1,0,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,13,"13 Tañedo, Caramina",,7,0-0,0-0,0-0,0-0,0,0,1,0,0,1,0,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,15,"15 Salmerón, Laura",,5,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,02,"02 Van-Otoo, Meliah",,2,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Lafayette,TM,TM TEAM,,0,0-0,0-0,0-0,2-3,5,0,0,0,0,0,0,01/25/23,7:00 PM,"Reitz Arena, Baltimore, MD",35,39
+Loyola Maryland,Bucknell,45,"45 Therien, Lex",*,27,6-14,0-1,2-3,6-5,11,4,0,2,1,0,14,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,04,"04 Dixon, Taleah",*,24,1-10,0-4,5-6,0-2,2,3,3,3,0,0,7,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,22,"22 Rozzi, Bri",*,20,2-4,2-2,0-0,0-1,1,2,2,4,0,0,6,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,01,"01 Ratigan, Kelly",*,21,1-4,0-1,0-0,0-2,2,0,1,2,0,0,2,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,05,"05 Newman, Devyne",*,17,1-3,0-1,0-0,0-0,0,2,0,0,0,0,2,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,15,"15 Salmerón, Laura",,25,2-6,0-1,0-0,0-3,3,0,0,2,0,4,4,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,02,"02 Van-Otoo, Meliah",,11,1-4,0-0,0-2,0-1,1,1,0,0,0,0,2,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,23,"23 Espinal, Marta",,21,0-0,0-0,0-0,0-2,2,4,0,4,1,0,0,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,12,"12 Garcia, Cristina",,19,0-2,0-0,0-0,2-0,2,2,0,1,0,0,0,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,13,"13 Tañedo, Caramina",,10,0-1,0-0,0-0,2-0,2,0,1,0,0,0,0,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,21,"21 Orza, Caroline",,5,0-1,0-1,0-0,0-0,0,0,0,1,0,0,0,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Bucknell,TM,TM TEAM,,0,0-0,0-0,0-0,1-0,1,0,0,1,0,0,0,01/28/23,2:00 PM,"Sojka Pavilion, Lewisburg, PA",37,73
+Loyola Maryland,Boston U.,45,"45 Therien, Lex",*,24,6-11,0-0,2-2,1-5,6,3,3,2,1,3,14,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,05,"05 Newman, Devyne",*,21,5-11,0-0,3-4,1-1,2,1,0,1,0,0,13,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,04,"04 Dixon, Taleah",*,27,5-17,1-4,1-1,0-2,2,2,1,3,0,1,12,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,01,"01 Ratigan, Kelly",*,25,1-5,1-2,0-0,0-4,4,2,3,3,0,0,3,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,22,"22 Rozzi, Bri",*,13,1-3,0-0,0-0,1-1,2,3,0,0,0,0,2,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,15,"15 Salmerón, Laura",,26,4-10,1-4,0-0,0-1,1,1,1,1,0,0,9,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,23,"23 Espinal, Marta",,20,1-1,0-0,0-0,1-0,1,1,0,0,0,1,2,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,02,"02 Van-Otoo, Meliah",,15,1-3,0-1,0-0,0-2,2,1,1,1,0,1,2,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,12,"12 Garcia, Cristina",,20,0-4,0-0,0-0,2-0,2,2,2,1,0,1,0,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,21,"21 Orza, Caroline",,6,0-2,0-1,0-0,0-0,0,0,0,1,0,0,0,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,13,"13 Tañedo, Caramina",,3,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Boston U.,TM,TM TEAM,,0,0-0,0-0,0-0,0-0,0,0,0,2,0,0,0,02/04/23,2:00 PM,"Case Gym, Boston, MA",57,100
+Loyola Maryland,Army West Point,45,"45 Therien, Lex",*,35,9-15,0-0,6-7,3-8,11,5,1,2,1,3,24,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Army West Point,04,"04 Dixon, Taleah",*,34,5-14,0-3,8-11,0-0,0,2,0,2,0,1,18,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Army West Point,01,"01 Ratigan, Kelly",*,36,3-7,2-3,0-0,0-3,3,5,5,1,0,0,8,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Army West Point,05,"05 Newman, Devyne",*,33,3-11,0-0,2-2,1-3,4,1,1,3,0,0,8,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Army West Point,22,"22 Rozzi, Bri",*,21,0-2,0-1,0-0,1-1,2,1,2,0,0,0,0,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Army West Point,02,"02 Van-Otoo, Meliah",,19,3-5,1-1,3-3,2-1,3,4,0,1,1,0,10,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Army West Point,15,"15 Salmerón, Laura",,9,0-0,0-0,0-0,0-0,0,1,1,0,0,0,0,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Army West Point,13,"13 Tañedo, Caramina",,6,0-0,0-0,0-0,0-0,0,1,0,0,0,0,0,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Army West Point,23,"23 Espinal, Marta",,6,0-1,0-0,0-0,0-1,1,1,0,3,0,0,0,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Army West Point,12,"12 Garcia, Cristina",,1,0-1,0-1,0-0,0-0,0,0,0,0,0,1,0,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Army West Point,TM,TM TEAM,,0,0-0,0-0,0-0,3-2,5,0,0,0,0,0,0,02/08/23,7:00 PM,"Reitz Arena, Baltimore, MD",68,83
+Loyola Maryland,Lehigh,45,"45 Therien, Lex",*,32,9-11,0-0,4-9,3-9,12,4,2,2,0,2,22,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lehigh,04,"04 Dixon, Taleah",*,29,4-18,2-6,4-4,0-1,1,4,1,4,0,3,14,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lehigh,01,"01 Ratigan, Kelly",*,33,3-7,2-4,2-2,0-3,3,3,3,2,0,0,10,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lehigh,22,"22 Rozzi, Bri",*,39,2-7,1-3,1-2,1-3,4,2,3,1,0,2,6,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lehigh,05,"05 Newman, Devyne",*,27,2-10,1-4,1-2,2-2,4,5,2,3,0,1,6,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lehigh,12,"12 Garcia, Cristina",,25,0-3,0-1,1-2,3-2,5,3,0,1,1,0,1,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lehigh,15,"15 Salmerón, Laura",,5,0-1,0-1,0-0,0-2,2,0,0,1,0,0,0,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lehigh,23,"23 Espinal, Marta",,5,0-0,0-0,0-0,0-2,2,1,0,0,0,0,0,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lehigh,13,"13 Tañedo, Caramina",,4,0-0,0-0,0-0,0-0,0,0,1,0,0,0,0,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lehigh,02,"02 Van-Otoo, Meliah",,1,0-1,0-1,0-0,0-1,1,0,0,0,0,0,0,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lehigh,TM,TM TEAM,,0,0-0,0-0,0-0,2-1,3,0,0,0,0,0,0,02/11/23,5:00 PM,"Reitz Arena, Baltimore, MD",59,67
+Loyola Maryland,Lafayette,04,"04 Dixon, Taleah",*,34,7-15,3-6,3-4,0-2,2,3,5,0,0,0,20,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Lafayette,45,"45 Therien, Lex",*,33,7-14,0-1,3-3,6-14,20,3,2,3,0,0,17,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Lafayette,22,"22 Rozzi, Bri",*,33,4-9,0-3,2-2,2-5,7,1,3,2,0,3,10,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Lafayette,01,"01 Ratigan, Kelly",*,35,2-6,2-4,3-4,3-3,6,2,3,1,0,1,9,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Lafayette,05,"05 Newman, Devyne",*,29,4-9,0-1,0-0,0-2,2,1,3,1,0,0,8,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Lafayette,23,"23 Espinal, Marta",,9,1-2,0-0,0-0,1-0,1,1,0,1,0,0,2,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Lafayette,12,"12 Garcia, Cristina",,9,0-0,0-0,0-0,0-0,0,1,0,1,0,0,0,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Lafayette,02,"02 Van-Otoo, Meliah",,8,0-1,0-0,0-2,0-0,0,2,2,0,0,0,0,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Lafayette,13,"13 Tañedo, Caramina",,5,0-0,0-0,0-0,1-1,2,0,1,1,0,1,0,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Lafayette,15,"15 Salmerón, Laura",,5,0-3,0-3,0-0,0-0,0,0,1,0,0,0,0,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Lafayette,TM,TM TEAM,,0,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,02/15/23,6:00 PM,"Kirby Sports Center, Easton, PA",66,55
+Loyola Maryland,Navy,45,"45 Therien, Lex",*,31,7-10,0-0,10-10,3-12,15,3,1,7,0,4,24,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,04,"04 Dixon, Taleah",*,26,5-10,1-3,1-1,0-1,1,0,0,2,0,1,12,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,05,"05 Newman, Devyne",*,27,5-8,0-1,1-1,0-2,2,0,4,1,0,0,11,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,01,"01 Ratigan, Kelly",*,29,3-5,2-4,0-0,0-3,3,2,1,2,0,0,8,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,22,"22 Rozzi, Bri",*,33,2-4,0-1,2-4,0-5,5,0,3,1,0,0,6,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,15,"15 Salmerón, Laura",,21,3-4,0-0,1-1,0-2,2,1,0,0,0,0,7,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,12,"12 Garcia, Cristina",,7,1-1,0-0,2-2,0-1,1,4,1,0,0,0,4,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,13,"13 Tañedo, Caramina",,5,0-1,0-1,2-2,0-0,0,0,0,1,0,3,2,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,02,"02 Van-Otoo, Meliah",,10,0-0,0-0,0-0,0-1,1,1,0,3,0,0,0,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,23,"23 Espinal, Marta",,9,0-0,0-0,0-0,0-2,2,1,0,0,0,0,0,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,21,"21 Orza, Caroline",,2,0-1,0-0,0-0,0-0,0,1,0,0,0,0,0,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Navy,TM,TM TEAM,,0,0-0,0-0,0-0,1-1,2,0,0,3,0,0,0,02/19/23,2:00 PM,"Reitz Arena, Baltimore, MD",74,50
+Loyola Maryland,Holy Cross,04,"04 Dixon, Taleah",*,33,4-10,1-4,5-8,1-3,4,2,2,2,0,2,14,02/22/23,7:00 PM,"Hart Center, Worcester, MA",51,59
+Loyola Maryland,Holy Cross,22,"22 Rozzi, Bri",*,39,4-10,1-5,0-0,2-3,5,4,2,3,0,2,9,02/22/23,7:00 PM,"Hart Center, Worcester, MA",51,59
+Loyola Maryland,Holy Cross,01,"01 Ratigan, Kelly",*,34,3-6,1-2,2-2,0-3,3,4,2,2,0,1,9,02/22/23,7:00 PM,"Hart Center, Worcester, MA",51,59
+Loyola Maryland,Holy Cross,45,"45 Therien, Lex",*,29,2-10,0-0,3-5,6-7,13,4,1,3,0,1,7,02/22/23,7:00 PM,"Hart Center, Worcester, MA",51,59
+Loyola Maryland,Holy Cross,05,"05 Newman, Devyne",*,29,2-11,0-3,0-0,1-2,3,0,1,0,0,1,4,02/22/23,7:00 PM,"Hart Center, Worcester, MA",51,59
+Loyola Maryland,Holy Cross,23,"23 Espinal, Marta",,10,1-2,0-0,3-4,0-0,0,3,0,1,0,0,5,02/22/23,7:00 PM,"Hart Center, Worcester, MA",51,59
+Loyola Maryland,Holy Cross,12,"12 Garcia, Cristina",,3,0-0,0-0,2-2,0-0,0,0,0,0,0,0,2,02/22/23,7:00 PM,"Hart Center, Worcester, MA",51,59
+Loyola Maryland,Holy Cross,13,"13 Tañedo, Caramina",,5,0-0,0-0,1-2,0-2,2,0,0,0,0,0,1,02/22/23,7:00 PM,"Hart Center, Worcester, MA",51,59
+Loyola Maryland,Holy Cross,15,"15 Salmerón, Laura",,18,0-1,0-0,0-0,0-0,0,0,0,1,0,1,0,02/22/23,7:00 PM,"Hart Center, Worcester, MA",51,59
+Loyola Maryland,Holy Cross,TM,TM TEAM,,0,0-0,0-0,0-0,1-3,4,0,0,2,0,0,0,02/22/23,7:00 PM,"Hart Center, Worcester, MA",51,59
+Loyola Maryland,American,45,"45 Therien, Lex",*,33,8-14,0-0,3-5,2-9,11,5,1,4,0,2,19,02/25/23,2:00 PM,"Bender Arena, Washington, DC",59,67
+Loyola Maryland,American,01,"01 Ratigan, Kelly",*,35,3-9,3-6,4-4,1-2,3,0,1,1,0,2,13,02/25/23,2:00 PM,"Bender Arena, Washington, DC",59,67
+Loyola Maryland,American,04,"04 Dixon, Taleah",*,36,4-13,2-7,2-3,0-2,2,3,2,5,0,1,12,02/25/23,2:00 PM,"Bender Arena, Washington, DC",59,67
+Loyola Maryland,American,22,"22 Rozzi, Bri",*,33,2-5,0-2,1-2,0-2,2,4,3,3,0,0,5,02/25/23,2:00 PM,"Bender Arena, Washington, DC",59,67
+Loyola Maryland,American,05,"05 Newman, Devyne",*,19,1-5,1-1,0-0,0-1,1,4,1,3,0,0,3,02/25/23,2:00 PM,"Bender Arena, Washington, DC",59,67
+Loyola Maryland,American,13,"13 Tañedo, Caramina",,24,1-2,0-1,3-4,3-2,5,5,0,2,1,1,5,02/25/23,2:00 PM,"Bender Arena, Washington, DC",59,67
+Loyola Maryland,American,23,"23 Espinal, Marta",,10,1-1,0-0,0-0,2-0,2,3,0,1,0,0,2,02/25/23,2:00 PM,"Bender Arena, Washington, DC",59,67
+Loyola Maryland,American,15,"15 Salmerón, Laura",,6,0-0,0-0,0-0,1-1,2,0,0,0,0,0,0,02/25/23,2:00 PM,"Bender Arena, Washington, DC",59,67
+Loyola Maryland,American,12,"12 Garcia, Cristina",,4,0-1,0-0,0-0,2-0,2,1,1,0,0,0,0,02/25/23,2:00 PM,"Bender Arena, Washington, DC",59,67
+Loyola Maryland,American,TM,TM TEAM,,0,0-0,0-0,0-0,2-4,6,0,0,2,0,0,0,02/25/23,2:00 PM,"Bender Arena, Washington, DC",59,67
+Loyola Maryland,Colgate,45,"45 Therien, Lex",*,32,7-11,0-0,9-12,1-8,9,3,0,1,0,2,23,03/01/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,64
+Loyola Maryland,Colgate,05,"05 Newman, Devyne",*,25,4-6,1-2,0-0,1-1,2,0,0,1,0,0,9,03/01/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,64
+Loyola Maryland,Colgate,04,"04 Dixon, Taleah",*,35,4-11,0-3,0-0,0-1,1,3,5,1,0,4,8,03/01/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,64
+Loyola Maryland,Colgate,01,"01 Ratigan, Kelly",*,36,3-10,1-6,0-0,0-3,3,2,1,2,0,0,7,03/01/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,64
+Loyola Maryland,Colgate,22,"22 Rozzi, Bri",*,26,0-4,0-0,0-0,1-2,3,4,4,1,0,0,0,03/01/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,64
+Loyola Maryland,Colgate,23,"23 Espinal, Marta",,12,1-2,0-0,0-0,1-2,3,1,0,0,0,0,2,03/01/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,64
+Loyola Maryland,Colgate,02,"02 Van-Otoo, Meliah",,7,0-0,0-0,1-2,0-0,0,0,0,2,0,0,1,03/01/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,64
+Loyola Maryland,Colgate,12,"12 Garcia, Cristina",,14,0-1,0-0,0-0,1-1,2,0,0,2,0,0,0,03/01/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,64
+Loyola Maryland,Colgate,15,"15 Salmerón, Laura",,13,0-0,0-0,0-0,0-0,0,1,1,1,0,1,0,03/01/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,64
+Loyola Maryland,Colgate,TM,TM TEAM,,0,0-0,0-0,0-0,1-0,1,0,0,0,0,0,0,03/01/23,7:00 PM,"Reitz Arena, Baltimore, MD",50,64
+Loyola Maryland,Lafayette,45,"45 Therien, Lex",*,37,6-13,0-1,5-9,3-18,21,3,3,5,0,2,17,03/04/23,4:00 PM,"Kirby Sports Center, Easton, PA",61,52
+Loyola Maryland,Lafayette,05,"05 Newman, Devyne",*,33,8-13,1-1,0-0,2-3,5,0,3,1,0,1,17,03/04/23,4:00 PM,"Kirby Sports Center, Easton, PA",61,52
+Loyola Maryland,Lafayette,04,"04 Dixon, Taleah",*,35,3-9,2-6,4-4,0-2,2,1,2,1,0,0,12,03/04/23,4:00 PM,"Kirby Sports Center, Easton, PA",61,52
+Loyola Maryland,Lafayette,01,"01 Ratigan, Kelly",*,38,4-8,2-4,0-1,0-1,1,2,3,1,0,0,10,03/04/23,4:00 PM,"Kirby Sports Center, Easton, PA",61,52
+Loyola Maryland,Lafayette,22,"22 Rozzi, Bri",*,36,1-4,1-3,2-2,0-2,2,3,5,2,0,1,5,03/04/23,4:00 PM,"Kirby Sports Center, Easton, PA",61,52
+Loyola Maryland,Lafayette,12,"12 Garcia, Cristina",,11,0-2,0-1,0-0,0-0,0,2,1,0,0,0,0,03/04/23,4:00 PM,"Kirby Sports Center, Easton, PA",61,52
+Loyola Maryland,Lafayette,13,"13 Tañedo, Caramina",,5,0-0,0-0,0-0,1-0,1,0,1,0,0,0,0,03/04/23,4:00 PM,"Kirby Sports Center, Easton, PA",61,52
+Loyola Maryland,Lafayette,23,"23 Espinal, Marta",,4,0-2,0-0,0-0,1-1,2,1,0,0,0,0,0,03/04/23,4:00 PM,"Kirby Sports Center, Easton, PA",61,52
+Loyola Maryland,Lafayette,15,"15 Salmerón, Laura",,1,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,03/04/23,4:00 PM,"Kirby Sports Center, Easton, PA",61,52
+Loyola Maryland,Lafayette,TM,TM TEAM,,0,0-0,0-0,0-0,1-1,2,0,0,0,0,0,0,03/04/23,4:00 PM,"Kirby Sports Center, Easton, PA",61,52
+Loyola Maryland,Boston U.,04,"04 Dixon, Taleah",*,34,4-10,1-2,2-2,0-3,3,1,1,1,0,1,11,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,05,"05 Newman, Devyne",*,33,5-17,1-3,0-0,1-1,2,2,1,1,0,1,11,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,22,"22 Rozzi, Bri",*,37,3-7,1-3,2-2,0-5,5,0,3,1,0,0,9,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,01,"01 Ratigan, Kelly",*,31,3-7,2-4,0-0,1-6,7,1,0,2,0,1,8,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,45,"45 Therien, Lex",*,28,3-9,0-0,2-2,2-9,11,4,1,2,0,2,8,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,13,"13 Tañedo, Caramina",,13,1-3,1-1,0-0,2-0,2,0,0,1,0,1,3,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,12,"12 Garcia, Cristina",,10,1-3,0-0,0-0,0-0,0,2,0,0,0,0,2,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,23,"23 Espinal, Marta",,12,0-2,0-0,0-0,1-2,3,3,0,4,0,0,0,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,15,"15 Salmerón, Laura",,1,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,35,"35 Therien, Ava",,1,0-0,0-0,0-0,0-0,0,1,0,0,0,0,0,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,21,"21 Orza, Caroline",,0+,0-0,0-0,0-0,0-0,0,0,0,0,0,0,0,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
+Loyola Maryland,Boston U.,TM,TM TEAM,,0,0-0,0-0,0-0,3-2,5,0,0,2,0,0,0,03/06/23,6:00 PM,"Case Gym, Boston, MA",52,66
